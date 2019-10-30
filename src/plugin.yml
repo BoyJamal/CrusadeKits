@@ -1,0 +1,12 @@
+name: CrusadeKits
+author: BoYjAmAl
+version: 1.0.0
+main: me.boyjamal.kits.Main
+commands:
+  kits:
+    usage: /<command>
+    description: Main kit command
+    aliases:
+    - 'ekit'
+    - 'kit'
+    - 'ekits'

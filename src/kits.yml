@@ -1,0 +1,39 @@
+kits:
+  default:
+    slot: 1
+    cooldown: 86400
+    hasPermission: true
+    permission: "essentials.kits.cerberus"
+    access:
+      id:
+      data:
+      name:
+      hasLore:
+      lore:
+      - ''
+      - ''
+      glow:
+      actions:
+      - ''
+    cooldown:
+      id:
+      data:
+      name:
+      hasLore:
+      lore:
+      - ''
+      - ''
+      glow:
+      actions:
+      - ''
+    error:
+      id:
+      data:
+      name:
+      hasLore:
+      lore:
+      - ''
+      - ''
+      glow:
+      actions:
+      - ''
